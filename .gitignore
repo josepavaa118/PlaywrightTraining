@@ -1,1 +1,4 @@
 *node_modules/*
+loggedInState.json
+notLoggedInState.json
+playwright-report/index.html
