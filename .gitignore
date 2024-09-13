@@ -3,4 +3,5 @@ loggedInState.json
 notLoggedInState.json
 playwright-report/index.html
 allure-*
+test-results/*
 test-results/.last-run.json
